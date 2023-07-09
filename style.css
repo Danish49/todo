@@ -320,6 +320,7 @@ footer .filters {
   }
    #todo-list .todo .delete {
     opacity: 1;
+         width: 1.5rem;
   }
 }
 @media (max-width: 470px) {
