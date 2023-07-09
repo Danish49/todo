@@ -104,9 +104,10 @@ body {
   width: 100%;
   max-width: 40rem;
   height: 4rem;
-  border-bottom: 0.1
+  border-bottom: 0.1px solid #dededa !important;
 
-px solid #dedada !important;
+
+
   display: flex;
   align-items: center;
   justify-content: center;
