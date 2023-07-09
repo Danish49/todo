@@ -318,6 +318,9 @@ footer .filters {
   .container {
     width: 100%;
   }
+   #todo-list .todo .delete {
+    opacity: 1;
+  }
 }
 @media (max-width: 470px) {
   html {
